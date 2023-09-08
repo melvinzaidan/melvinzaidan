@@ -1,4 +1,6 @@
-# <div align=center>Hi there 👋</div>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'melvin+Zaidan+A" alt="Typing SVG" /></a>
+</p>
 
 ## <div align=center>About Me</div>
 
@@ -30,7 +32,9 @@ Feel free to explore my repositories to see my work!
 ](url)
 
 -->
-<a href="https://www.gambaranimasi.org/cat-garis-562.htm"><img src="https://www.gambaranimasi.org/data/media/562/animasi-bergerak-garis-0031.gif" border="0" alt="animasi-bergerak-garis-0031" /></a>
+<center>
+<a href="https://www.gambaranimasi.org/cat-garis-562.htm" width="100px"><img src="https://www.gambaranimasi.org/data/media/562/animasi-bergerak-garis-0031.gif" border="0" alt="animasi-bergerak-garis-0031" /></a>
+  </center>
 <div align=center>Reach Me</div>
 
 You can contact me via these media sosial :
