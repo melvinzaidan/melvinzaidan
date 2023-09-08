@@ -9,8 +9,8 @@ I'm having interest with Coding and decided to become a Programmer.
 ## <div align=center>Tech Stacks</div>
 
 Here is some Technologies that Familiar or Ever I use:
-
-- **Web Development:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+<!--
+[- **Web Development:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 - **Programming Language:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 - **Data Base:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 - **Others:** ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF5050?logo=renpy&logoColor=white&style=for-the-badge) ![GameMaker Studio 2](https://img.shields.io/badge/GameMaker%20Studio%202-1C1C1C?logo=gamemaker&logoColor=white&style=for-the-badge)
@@ -27,14 +27,16 @@ I enjoy taking on challenges and creating innovative solutions. Here's what I ca
 
 You can also open my personal website on [ntesseract.github.io](https://ntesseract.github.io)<br/>
 Feel free to explore my repositories to see my work!
+](url)
 
+-->
 ## <div align=center>Reach Me</div>
 
 You can contact me via these media sosial :
 <div align=center>
   <a href="https://api.whatsapp.com/send/?phone=6289664170401"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white"></a>
-  <a href="https://instagram.com/ibrakim.id/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
-  <a href="mailto:ibrakim0169@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Naufal"></a>
+  <a href=https://www.instagram.com/melvinz.as/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
+  <a href="mailto:melvinzaidana.s23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Naufal"></a>
 </div>
 
 Thanks for taking your time to read my Profiles!
