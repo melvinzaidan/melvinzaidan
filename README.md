@@ -32,10 +32,7 @@ Feel free to explore my repositories to see my work!
 ](url)
 
 -->
-===================================================
-UKK
-https://drive.google.com/drive/folders/14oSoG8paa5iBlokN9QvYbtMN9uRkBMUP?usp=sharing
-===================================================
+
 <div align=center>Reach Me</div>
 
 You can contact me via these media sosial :
